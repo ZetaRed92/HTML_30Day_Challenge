@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: rgb(86, 86, 86);
+    background: linear-gradient(#97F488, #222222);
+    color: #ffffff;
+    overflow: hidden;
+}
