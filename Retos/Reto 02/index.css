@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: monospace, sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(#97F488, #222222);
+    color: #ffffff;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    & header {
+        text-align: center;
+        padding: 0.5rem;
+    }
+
+    & h1 {
+        padding: 1rem;
+        margin-top: 1rem;
+        font-size: 4rem;
+    }
+
+    & h2 {
+        padding: 1rem;
+        font-size: 1.5rem;
+    }
+
+    & img {
+        width: 80%;
+        margin-top: 1rem;
+        border-radius: 1rem;
+    }
+}
+
+& main {
+    max-width: 90rem;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+
+    & p {
+        padding: 1rem;
+        text-align: justify;
+    }
+}
