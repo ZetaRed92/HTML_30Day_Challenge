@@ -6,7 +6,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-4d98d4?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 > #### *30 días de retos con Manz* 🎯 **[Manz 30-Day Challenge](https://lenguajehtml.com/challenge/)**
 
-### Landing page con los retos resueltos: 🚀 **[My Landing Page](https://zetared92.github.io/HTML_30Day_Challenge/)**
+### Landing page con los retos resueltos: 🚀 **[My Landing Page](https://zetared92.github.io/HTML_30Day_Challenge/)** *[EN PROCESO]*
 
 ### **Los retos:**
 * **01** - *04/03/24 | Fácil | [[Día 01](https://github.com/ZetaRed92/HTML_30Day_Challenge/tree/main/Retos/Reto%2001)]*
