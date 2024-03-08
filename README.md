@@ -12,5 +12,5 @@
 * **01** - *04/03/24 | Fácil | [[Día 01](https://github.com/ZetaRed92/HTML_30Day_Challenge/tree/main/Retos/Reto%2001)]*
 * **02** - *05/03/24 | Fácil | [[Día 02](https://github.com/ZetaRed92/HTML_30Day_Challenge/tree/main/Retos/Reto%2002)]*
 * **03** - *06/03/24 | Fácil | [[Día 03](https://github.com/ZetaRed92/HTML_30Day_Challenge/tree/main/Retos/Reto%2003)]*
-* **04** - *07/03/24 | Media | *
-* **05** - *08/03/24 | Fácil | *
+* **04** - *07/03/24 | Media | [[Día 04](https://github.com/ZetaRed92/HTML_30Day_Challenge/tree/main/Retos/Reto%2004)]*
+* **05** - *08/03/24 | Fácil | [[Día 05](https://github.com/ZetaRed92/HTML_30Day_Challenge/tree/main/Retos/Reto%2005)]*
