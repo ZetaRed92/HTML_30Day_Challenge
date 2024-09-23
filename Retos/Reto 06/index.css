@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background: #222222;
+    color: #ffff4a;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    & header {
+        text-align: center;
+        padding: 0.5rem;
+    }
+
+    & h1 {
+        padding: 1rem;
+        margin-top: 1rem;
+        font-size: 4rem;
+    }
+
+    & h2 {
+        padding: 1rem;
+        font-size: 2rem;
+    }
+
+    & p {
+        padding: 1rem;
+        font-size: 1.5rem;
+    }
+
+    & section {
+        border: 1px solid;
+        background-color: #ffff4a;
+        margin-bottom: 1rem;
+        padding: 1rem;
+        width: 42rem;
+        color: black;
+        font-size: 1.5rem;
+}
+
+& img {
+    width: 44rem;
+    margin-top: 1rem;
+}
