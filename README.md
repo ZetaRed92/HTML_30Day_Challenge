@@ -16,3 +16,4 @@
 * **05** - *Reto 05 | Fácil | [[Día 05](https://github.com/ZetaRed92/HTML_30Day_Challenge/tree/main/Retos/Reto%2005)]*
 * **06** - *Reto 06 | Fácil | [[Día 06](https://github.com/ZetaRed92/HTML_30Day_Challenge/tree/main/Retos/Reto%2006)]*
 * **07** - *Reto 07 | Media | [[Día 07](https://github.com/ZetaRed92/HTML_30Day_Challenge/tree/main/Retos/Reto%2007)]*
+* **08** - *Reto 08 | Fácil | [[Día 08](https://github.com/ZetaRed92/HTML_30Day_Challenge/tree/main/Retos/Reto%2008)]*
