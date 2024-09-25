@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="index.css">
+        <title>Reto 07</title>
+    </head>
+    <body>
+        <header>
+            <h1>Día 7</h1>
+            <p>
+                Coloca una imagen en formato JPEG-XL. Si el navegador no la soporta, que use AVIF. Sino, que use JPG.
+            </p>
+        </header>
+        <main>
+            <h2>
+                Johnny sends you his regards:
+            </h2>
+            <picture> <br>
+                    <source srcset="Johnny.jxl" type="image/jxl"/> <br>
+                    <source srcset="Johnny.avif" type="image/avif"/> <br>
+                    <img src="Johnny.jpg" alt="Descripción de la imagen"/> <br>
+            <picture/>
+        </main>
+    </body>
+</html>

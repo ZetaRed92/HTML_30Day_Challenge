@@ -37,9 +37,10 @@ body {
         width: 42rem;
         color: black;
         font-size: 1.5rem;
-}
+    }
 
-& img {
-    width: 44rem;
-    margin-top: 1rem;
+    & img {
+        width: 44rem;
+        margin-top: 1rem;
+    }
 }
