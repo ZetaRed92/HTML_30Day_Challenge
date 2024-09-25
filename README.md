@@ -1,4 +1,4 @@
-![https://github.com/ZetaRed92/HTML_30Day_Challenge](./Images/header.jpg)
+![https://github.com/ZetaRed92/HTML_30Day_Challenge](./Recursos/header.jpg)
 
 # 🖥️ HTML 30-DAY Challenge 🖥️
 #### *[Aprendiendo HTML y CSS!]*

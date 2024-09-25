@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background: #222222;
+    color: #ffff4a;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    & header {
+        text-align: center;
+        padding: 0.5rem;
+    }
+
+    & p {
+        padding: 1rem;
+        margin-top: 1rem;
+        font-size: 2rem;
+    }
+
+    & img {
+        width: 60rem;
+        margin-bottom: 1rem;
+    }
+
+    & mark {
+        background: yellow;
+    }
+}
